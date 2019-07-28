@@ -1,4 +1,5 @@
 # k8sNote
+學習筆記
 https://app.gitbook.com/@sinyilin/s/lpidevops/an-k8s
 
 官方文章
